@@ -1,4 +1,4 @@
-# How to Set Master Filter in DashboardControl
+# Dashboard for WPF - How to Set Master Filter in the DashboardControl
 
 The following example demonstrates how to set master filter in the [DashboardControl](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWpf.DashboardControl) control.
 
