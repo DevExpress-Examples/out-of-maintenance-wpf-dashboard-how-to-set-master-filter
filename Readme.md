@@ -13,3 +13,8 @@ The [DashboardControl.SetMasterFilter](https://docs.devexpress.com/Dashboard/Dev
 This example also demonstrates how to handle the [DashboardControl.MasterFilterSet](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWpf.DashboardControl.MasterFilterSet) and [DashboardControl.MasterFilterCleared](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWpf.DashboardControl.MasterFilterCleared) events.
 
 ![screenshot](https://github.com/DevExpress-Examples/wpf-dashboard-how-to-set-master-filter/blob/18.2.4%2B/images/screenshot.png)
+
+## Documentation
+
+- [Master Filtering](https://docs.devexpress.com/Dashboard/400011/wpf-viewer/manage-interactivity-capabilities#master-filtering)
+- [Extract Data Source](https://docs.devexpress.com/Dashboard/115900/winforms-dashboard/winforms-designer/create-dashboards-in-the-winforms-designer/providing-data/extract-data-source)
