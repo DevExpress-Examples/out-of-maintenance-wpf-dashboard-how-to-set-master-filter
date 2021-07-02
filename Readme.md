@@ -18,3 +18,8 @@ This example also demonstrates how to handle the [DashboardControl.MasterFilterS
 
 - [Master Filtering](https://docs.devexpress.com/Dashboard/400011/wpf-viewer/manage-interactivity-capabilities#master-filtering)
 - [Extract Data Source](https://docs.devexpress.com/Dashboard/115900/winforms-dashboard/winforms-designer/create-dashboards-in-the-winforms-designer/providing-data/extract-data-source)
+
+## More Examples
+
+- [Dashboard for WPF - How to use the DashboardStateChanged event to display user interactions](https://github.com/DevExpress-Examples/wpf-dashboard-viewer-DashboardStateChanged-event)
+- [Dashboard for WPF - How to Synchronize Master Filter and Drill Down Actions Between Dashboards](https://github.com/DevExpress-Examples/wpf-dashboard-linked-interactivity)
