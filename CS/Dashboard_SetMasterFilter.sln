@@ -1,6 +1,6 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
+# Visual Studio 2012
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dashboard_SetMasterFilter", "Dashboard_SetMasterFilter\Dashboard_SetMasterFilter.csproj", "{25C77AAC-A8A9-43E8-A861-0852F22B68FA}"

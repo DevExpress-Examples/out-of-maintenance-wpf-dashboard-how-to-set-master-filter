@@ -1,8 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 16
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Dashboard_SetMasterFilter", "Dashboard_SetMasterFilter\Dashboard_SetMasterFilter.vbproj", "{25C77AAC-A8A9-43E8-A861-0852F22B68FA}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Dashboard_SetMasterFilter", "Dashboard_SetMasterFilter\Dashboard_SetMasterFilter.Net5.vbproj", "{25C77AAC-A8A9-43E8-A861-0852F22B68FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
